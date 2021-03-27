@@ -1,7 +1,6 @@
 # awesome-wasm
 
 - binaryen
-- wasm-opt
 - rust
 - wasmtime
 - wasmer
@@ -16,11 +15,11 @@
 - bytecodeallianc
 - wasm-bindgen
 - ssvm
-- 
 
 ## Tools
 - Bloaty McBloatface
 - Twiggy
+- wasm-opt
 
 ## Languages
 - Rust
