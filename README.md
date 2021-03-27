@@ -13,7 +13,7 @@
 - graalvm
 - bytecodeallianc
 - wasm-bindgen
-- ssvm
+- [ssvm](https://github.com/second-state/SSVM)
 
 ## Tools
 - Bloaty McBloatface
@@ -37,8 +37,9 @@
     - jwebassembly
     - GraalVM
     - TeaVM
+    - CheerpJ
     - binary-something
-  - asmbler 
+  - [asemble](https://github.com/cretz/asmble) 
 
 ## Awesome-awsome wasm
 Other awesome-wasm pages
