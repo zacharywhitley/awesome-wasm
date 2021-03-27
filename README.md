@@ -19,3 +19,13 @@
 - 
 
 ## Tools
+
+
+## Languages
+- Rust
+- C
+- C++
+- C#
+- AssemblyScript
+- Groot (or something like that)
+- LLVM
