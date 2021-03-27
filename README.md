@@ -20,6 +20,7 @@
 - Bloaty McBloatface
 - Twiggy
 - wasm-opt
+- wasm-pack
 
 ## Languages
 - Rust
@@ -29,6 +30,7 @@
 - AssemblyScript
 - Groot (or something like that)
 - LLVM
+- GO
 
 ## Awesome-awsome wasm
 Other awesome-wasm pages
