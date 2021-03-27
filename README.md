@@ -4,7 +4,7 @@
 - [wasmtime](https://wasmtime.dev/)
 - [wasmer](https://wasmer.io/)
 - [wasm3](https://github.com/wasm3/wasm3)
-- wamr
+- [wamr](https://github.com/bytecodealliance/wasm-micro-runtime)
 - wat
 - wasi
 - Emscriptym
