@@ -1,10 +1,9 @@
 # awesome-wasm
 
-- binaryen
-- rust
-- wasmtime
-- wasmer
-- wasm3
+- [binaryen](https://github.com/WebAssembly/binaryen)
+- [wasmtime](https://wasmtime.dev/)
+- [wasmer](https://wasmer.io/)
+- [wasm3](https://github.com/wasm3/wasm3)
 - wamr
 - wat
 - wasi
@@ -31,6 +30,13 @@
 - Groot (or something like that)
 - LLVM
 - GO
+- JVM
+  - Java
+    - wasmer-java
+    - wasmtime-java
+    - jwebassembly
+    - GraalVM
+  - asmbler 
 
 ## Awesome-awsome wasm
 Other awesome-wasm pages
