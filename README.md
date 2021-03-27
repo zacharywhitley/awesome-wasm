@@ -24,7 +24,7 @@
 - Bloaty McBloatface
 - Twiggy
 - wasm-opt
-- wasm-pack
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
 - wat2wasm
 
 ## Languages
