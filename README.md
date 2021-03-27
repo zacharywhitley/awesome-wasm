@@ -19,7 +19,8 @@
 - 
 
 ## Tools
-
+- Bloaty McBloatface
+- Twiggy
 
 ## Languages
 - Rust
