@@ -14,6 +14,11 @@
 - bytecodeallianc
 - wasm-bindgen
 - [ssvm](https://github.com/second-state/SSVM)
+- wasmi
+- waPC
+- WASI
+- wascap
+- 
 
 ## Tools
 - Bloaty McBloatface
@@ -22,6 +27,7 @@
 - wasm-pack
 
 ## Languages
+- Zig
 - Rust
 - C
 - C++
@@ -43,3 +49,5 @@
 
 ## Awesome-awsome wasm
 Other awesome-wasm pages
+- https://github.com/appcypher/awesome-wasm-langs
+- 
