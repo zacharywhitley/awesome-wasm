@@ -25,6 +25,7 @@
 - Twiggy
 - wasm-opt
 - wasm-pack
+- wat2wasm
 
 ## Languages
 - Zig
