@@ -15,7 +15,7 @@
 - wasm-bindgen
 - [ssvm](https://github.com/second-state/SSVM)
 - wasmi
-- waPC
+- [waPC](https://github.com/wapc)
 - WASI
 - wascap
 - 
