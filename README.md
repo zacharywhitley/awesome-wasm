@@ -8,7 +8,7 @@
 - wat
 - wasi
 - Emscriptym
-- baazor
+- [baazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - kotlin
 - graalvm
 - bytecodeallianc
@@ -36,6 +36,8 @@
     - wasmtime-java
     - jwebassembly
     - GraalVM
+    - TeaVM
+    - binary-something
   - asmbler 
 
 ## Awesome-awsome wasm
