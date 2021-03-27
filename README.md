@@ -18,7 +18,7 @@
 - [waPC](https://github.com/wapc)
 - WASI
 - wascap
-- waSCC WebAssembly Secure Capabilities Connector
+- [waSCC](https://wascc.dev) WebAssembly Secure Capabilities Connector
 
 ## Tools
 - Bloaty McBloatface
