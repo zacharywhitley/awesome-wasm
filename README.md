@@ -51,4 +51,6 @@
 ## Awesome-awsome wasm
 Other awesome-wasm pages
 - https://github.com/appcypher/awesome-wasm-langs
-- 
+
+## Misc
+- https://soil-initiative.org/
