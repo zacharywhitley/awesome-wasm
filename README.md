@@ -16,7 +16,7 @@
 - wat2wasm
 - [wapm](https://madewithwebassembly.com/showcase/wapm/)
 - [wasienv](https://github.com/wasienv/wasienv)
-
+- [olin](https://github.com/Xe/olin)
 ## Languages
 - Zig
 - Rust
