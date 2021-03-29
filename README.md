@@ -55,7 +55,7 @@ Other awesome-wasm pages
 - Emscriptym
 - [baazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - kotlin
-- graalvm
+- [GraalVM](https://www.graalvm.org/reference-manual/wasm/)
 - bytecodeallianc
 - wasm-bindgen
 - [ssvm](https://github.com/second-state/SSVM)
