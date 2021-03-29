@@ -5,6 +5,7 @@
 - [wasmer](https://wasmer.io/)
 - [wasm3](https://github.com/wasm3/wasm3)
 - [wamr](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [Lucet](https://github.com/bytecodealliance/lucet)
 - wat
 - wasi
 - Emscriptym
