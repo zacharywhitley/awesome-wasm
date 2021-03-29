@@ -48,7 +48,7 @@
     - jwebassembly
     - GraalVM
     - TeaVM
-    - CheerpJ
+    - [CheerpJ[(https://github.com/leaningtech/cheerpj-meta)
     - binary-something
   - [asemble](https://github.com/cretz/asmble) 
 
