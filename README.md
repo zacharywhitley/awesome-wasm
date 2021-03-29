@@ -21,6 +21,8 @@
 - wascap
 - [waSCC](https://wascc.dev) WebAssembly Secure Capabilities Connector
 - [TinyGo](https://madewithwebassembly.com/showcase/tinygo)
+- [WAVM](https://github.com/WAVM/WAVM)
+
 ## Tools
 - Bloaty McBloatface
 - Twiggy
