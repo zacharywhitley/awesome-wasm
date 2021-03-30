@@ -17,6 +17,8 @@
 - [wapm](https://madewithwebassembly.com/showcase/wapm/)
 - [wasienv](https://github.com/wasienv/wasienv)
 - [olin](https://github.com/Xe/olin)
+- [onnc](https://github.com/ONNC/onnc-wasm)
+
 ## Languages
 - Zig
 - Rust
