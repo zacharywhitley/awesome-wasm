@@ -71,3 +71,4 @@ Other awesome-wasm pages
 - [waSCC](https://wascc.dev) WebAssembly Secure Capabilities Connector
 - [TinyGo](https://madewithwebassembly.com/showcase/tinygo)
 - [WAVM](https://github.com/WAVM/WAVM)
+- [XNNPACK](https://github.com/google/XNNPACK)
