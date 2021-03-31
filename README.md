@@ -21,6 +21,7 @@
 - [wasm-graph[(https://github.com/NikVolf/wasm-graph)
 
 ## Languages
+- [TurboScript](https://github.com/01alchemist/TurboScript)
 - Zig
 - Rust
 - C
