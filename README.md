@@ -18,6 +18,7 @@
 - [wasienv](https://github.com/wasienv/wasienv)
 - [olin](https://github.com/Xe/olin)
 - [onnc](https://github.com/ONNC/onnc-wasm)
+- [wasm-graph[(https://github.com/NikVolf/wasm-graph)
 
 ## Languages
 - Zig
