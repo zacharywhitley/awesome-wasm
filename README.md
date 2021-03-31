@@ -21,13 +21,14 @@
 - [wasm-graph[(https://github.com/NikVolf/wasm-graph)
 
 ## Languages
+- [Speedy.js](https://github.com/MichaReiser/speedy.js)
 - [TurboScript](https://github.com/01alchemist/TurboScript)
 - Zig
 - Rust
 - C
 - C++
 - C#
-- AssemblyScript
+- [AssemblyScript](https://www.assemblyscript.org)
 - Groot (or something like that)
 - LLVM
 - GO
