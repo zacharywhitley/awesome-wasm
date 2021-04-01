@@ -74,3 +74,4 @@ Other awesome-wasm pages
 - [XNNPACK](https://github.com/google/XNNPACK)
 - [waPC](https://github.com/wapc) - WebAssembly proceedure calls
 - [WasmCloud](https://wasmcloud.com)
+- [enarx](https://enarx.dev)
