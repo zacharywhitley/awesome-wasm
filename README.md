@@ -75,3 +75,4 @@ Other awesome-wasm pages
 - [waPC](https://github.com/wapc) - WebAssembly proceedure calls
 - [WasmCloud](https://wasmcloud.com)
 - [enarx](https://enarx.dev)
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
