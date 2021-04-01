@@ -72,3 +72,4 @@ Other awesome-wasm pages
 - [TinyGo](https://madewithwebassembly.com/showcase/tinygo)
 - [WAVM](https://github.com/WAVM/WAVM)
 - [XNNPACK](https://github.com/google/XNNPACK)
+- [waPC](https://github.com/wapc) - WebAssembly proceedure calls
