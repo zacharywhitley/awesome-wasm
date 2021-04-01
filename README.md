@@ -76,3 +76,4 @@ Other awesome-wasm pages
 - [WasmCloud](https://wasmcloud.com)
 - [enarx](https://enarx.dev)
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [wapc-guest-zig](https://github.com/wapc/wapc-guest-zig)
