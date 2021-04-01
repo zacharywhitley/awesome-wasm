@@ -9,7 +9,7 @@
 
 
 ## Tools
-- Bloaty McBloatface
+- [Bloaty McBloatface](https://github.com/google/bloaty)
 - Twiggy
 - wasm-opt
 - [wasm-pack](https://github.com/rustwasm/wasm-pack)
