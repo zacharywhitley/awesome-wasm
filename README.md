@@ -42,7 +42,9 @@
     - [CheerpJ[(https://github.com/leaningtech/cheerpj-meta)
     - binary-something
   - [asemble](https://github.com/cretz/asmble) 
-
+- Python
+  - [pypy.js](https://pypyjs.org)
+  - [PyOdide](https://pyodide.org/en/latest/)
 ## Awesome awsome wasm
 Other awesome-wasm pages
 - https://github.com/appcypher/awesome-wasm-langs
