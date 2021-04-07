@@ -81,3 +81,4 @@ Other awesome-wasm pages
 - [wapc-guest-zig](https://github.com/wapc/wapc-guest-zig)
 - [AssemblyLift](https://github.com/akkoro/assemblylift)
 - [fastlylabs](https://wasm.fastlylabs.com)
+- [parity-wasm](https://github.com/paritytech/parity-wasm)
