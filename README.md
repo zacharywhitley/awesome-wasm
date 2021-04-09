@@ -83,3 +83,4 @@ Other awesome-wasm pages
 - [AssemblyLift](https://github.com/akkoro/assemblylift)
 - [fastlylabs](https://wasm.fastlylabs.com)
 - [parity-wasm](https://github.com/paritytech/parity-wasm)
+- [vim.wasm](https://github.com/rhysd/vim.wasm)
