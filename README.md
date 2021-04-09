@@ -84,3 +84,4 @@ Other awesome-wasm pages
 - [fastlylabs](https://wasm.fastlylabs.com)
 - [parity-wasm](https://github.com/paritytech/parity-wasm)
 - [vim.wasm](https://github.com/rhysd/vim.wasm)
+- [pyodide](https://github.com/pyodide/pyodide)
