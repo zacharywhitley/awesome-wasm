@@ -87,3 +87,6 @@ Other awesome-wasm pages
 - [pyodide](https://github.com/pyodide/pyodide)
 - https://github.com/coastalwhite/WasmSVGGraphics
 - [faasm](https://github.com/faasm/faasm)
+- [WASM-ImageMagick](https://github.com/KnicKnic/WASM-ImageMagick)
+- [wasm-loader](https://github.com/ballercat/wasm-loader)
+- [muse](https://github.com/chartshq/muze)
