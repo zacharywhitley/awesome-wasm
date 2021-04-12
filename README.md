@@ -94,3 +94,4 @@ Other awesome-wasm pages
 - [arrow-wasm](https://github.com/domoritz/arrow-wasm)
 - [perspective](https://perspective.finos.org/)
 - [nebulet](https://github.com/nebulet/nebulet)
+- [vecty](https://github.com/hexops/vecty)
