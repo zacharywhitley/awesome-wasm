@@ -90,3 +90,4 @@ Other awesome-wasm pages
 - [WASM-ImageMagick](https://github.com/KnicKnic/WASM-ImageMagick)
 - [wasm-loader](https://github.com/ballercat/wasm-loader)
 - [muse](https://github.com/chartshq/muze)
+- [wasm-init](https://github.com/shamadee/wasm-init)
