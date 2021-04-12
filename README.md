@@ -86,3 +86,4 @@ Other awesome-wasm pages
 - [vim.wasm](https://github.com/rhysd/vim.wasm)
 - [pyodide](https://github.com/pyodide/pyodide)
 - https://github.com/coastalwhite/WasmSVGGraphics
+- [faasm](https://github.com/faasm/faasm)
