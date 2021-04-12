@@ -91,3 +91,5 @@ Other awesome-wasm pages
 - [wasm-loader](https://github.com/ballercat/wasm-loader)
 - [muse](https://github.com/chartshq/muze)
 - [wasm-init](https://github.com/shamadee/wasm-init)
+- [arrow-wasm](https://github.com/domoritz/arrow-wasm)
+- [perspective](https://perspective.finos.org/)
