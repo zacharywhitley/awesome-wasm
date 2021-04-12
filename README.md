@@ -93,3 +93,4 @@ Other awesome-wasm pages
 - [wasm-init](https://github.com/shamadee/wasm-init)
 - [arrow-wasm](https://github.com/domoritz/arrow-wasm)
 - [perspective](https://perspective.finos.org/)
+- [nebulet](https://github.com/nebulet/nebulet)
