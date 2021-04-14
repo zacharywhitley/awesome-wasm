@@ -67,7 +67,7 @@ Other awesome-wasm pages
 - bytecodeallianc
 - wasm-bindgen
 - [ssvm](https://github.com/second-state/SSVM)
-- wasmi
+- [wasmi](https://github.com/paritytech/wasmi)
 - [waPC](https://github.com/wapc)
 - WASI
 - wascap
