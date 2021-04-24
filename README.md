@@ -96,3 +96,4 @@ Other awesome-wasm pages
 - [nebulet](https://github.com/nebulet/nebulet)
 - [vecty](https://github.com/hexops/vecty)
 - [WAMR](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [wizer](https://github.com/bytecodealliance/wizer)
