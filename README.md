@@ -97,3 +97,4 @@ Other awesome-wasm pages
 - [vecty](https://github.com/hexops/vecty)
 - [WAMR](https://github.com/bytecodealliance/wasm-micro-runtime)
 - [wizer](https://github.com/bytecodealliance/wizer)
+- [wasm-init](https://github.com/shamadee/wasm-init)
