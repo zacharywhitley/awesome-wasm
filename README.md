@@ -98,3 +98,4 @@ Other awesome-wasm pages
 - [WAMR](https://github.com/bytecodealliance/wasm-micro-runtime)
 - [wizer](https://github.com/bytecodealliance/wizer)
 - [wasm-init](https://github.com/shamadee/wasm-init)
+- [hash-wasm](https://github.com/Daninet/hash-wasm)
