@@ -99,3 +99,4 @@ Other awesome-wasm pages
 - [wizer](https://github.com/bytecodealliance/wizer)
 - [wasm-init](https://github.com/shamadee/wasm-init)
 - [hash-wasm](https://github.com/Daninet/hash-wasm)
+- [wasmi](https://github.com/paritytech/wasmi)
