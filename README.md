@@ -100,3 +100,4 @@ Other awesome-wasm pages
 - [wasm-init](https://github.com/shamadee/wasm-init)
 - [hash-wasm](https://github.com/Daninet/hash-wasm)
 - [wasmi](https://github.com/paritytech/wasmi)
+- [wasmcloud](https://wasmcloud.dev/)
