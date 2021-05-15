@@ -102,3 +102,4 @@ Other awesome-wasm pages
 - [wasmi](https://github.com/paritytech/wasmi)
 - [wasmcloud](https://wasmcloud.dev/)
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [atmo](https://github.com/suborbital/atmo)
