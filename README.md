@@ -103,3 +103,4 @@ Other awesome-wasm pages
 - [wasmcloud](https://wasmcloud.dev/)
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
 - [atmo](https://github.com/suborbital/atmo)
+- [Faasm](https://www.usenix.org/conference/atc20/presentation/shillaker)
