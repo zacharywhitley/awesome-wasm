@@ -105,6 +105,6 @@ Other awesome-wasm pages
 - [atmo](https://github.com/suborbital/atmo)
 - [Faasm](https://www.usenix.org/conference/atc20/presentation/shillaker)
 - [parity-wasm-sgx](https://github.com/mesalock-linux/parity-wasm-sgx)
-
+- [Webassembly Studio](https://webassembly.studio)
 ## Awesome-awesome
 - https://github.com/mbasso/awesome-wasm
